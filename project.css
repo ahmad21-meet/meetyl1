@@ -1,5 +1,5 @@
 .pepe {
-	color:blue;
+	color:yellow;
 	text-align: center;
 	font-size: 100px;
 }
@@ -8,11 +8,19 @@ body{
 	background-size: cover;
 }
 p {
-	color: green;
+	color: yellow;
+	font-size: 35px;
 }
 .oc{
 	margin-right: auto;
 	margin-left: auto;
 	width: 650px;
 
+}
+button {
+	  font-size: 30px;
+
+}
+.meme{
+	margin-top: 150px; 
 }
